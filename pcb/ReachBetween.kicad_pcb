@@ -1250,7 +1250,6 @@
       (xy 135.277271 108.324365)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp 01f25699-ae95-4f23-a2db-5c91f895964e))
   (gr_rect (start 151 117.7) (end 149 119.7) (layer "B.SilkS") (width 0) (fill solid) (tstamp 06beab85-6d78-4c46-bc50-da3e7d8d98e3))
-  (gr_line (start 143.75 89.7) (end 138.5 85.7) (layer "B.SilkS") (width 2) (tstamp 0ab5b7bc-26b2-4de5-b6e3-c4c7be4f70cd))
   (gr_poly
     (pts
       (xy 137.766312 108.698731)
@@ -1382,9 +1381,18 @@
       (xy 137.775386 108.698585)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp 0e353d4d-49b6-4599-b8d7-668abf3a3041))
   (gr_rect (start 149 126.2) (end 151 124.2) (layer "B.SilkS") (width 0) (fill solid) (tstamp 1ea14b4e-e043-4eb1-a7c0-013269344560))
+  (gr_line (start 143.5 89.7) (end 142.45 88.85) (layer "B.SilkS") (width 2) (tstamp 233cfd4a-3e69-493d-b359-bfb36c843ecb))
   (gr_line (start 150 101.8) (end 150 118.7) (layer "B.SilkS") (width 2) (tstamp 265a1686-b70b-4ba1-add8-574f6613aec5))
+  (gr_poly
+    (pts
+      (xy 156.598685 88.331702)
+      (xy 155.037824 89.582187)
+      (xy 156.288309 91.143048)
+      (xy 157.84917 89.892563)
+    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 4925c46f-467c-40b3-95db-ef4df267cd8b))
+  (gr_line (start 138.5 69.25) (end 138.4 80.9) (layer "B.SilkS") (width 2) (tstamp 4a9da171-847e-4bc4-93f9-edfe5c4b8354))
   (gr_rect (start 149 102.7) (end 151 100.7) (layer "B.SilkS") (width 0) (fill solid) (tstamp 54dd8f38-22cd-4398-813b-f3a98ab60ec2))
-  (gr_line (start 161.5 85.7) (end 161.5 69.25) (layer "B.SilkS") (width 2) (tstamp 58e3cc6e-158c-4fbc-b418-9c1af2be27cb))
+  (gr_line (start 157.55 88.85) (end 156.5 89.7) (layer "B.SilkS") (width 2) (tstamp 5fc5324e-c2ef-45c8-948a-a82775445cd5))
   (gr_poly
     (pts
       (xy 137.72208 108.325561)
@@ -1907,6 +1915,7 @@
       (xy 135.281107 108.825188)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp 6689fc84-25ee-46b6-9ec3-3b07ae678cfa))
   (gr_line (start 150 125.3) (end 150 130.75) (layer "B.SilkS") (width 2) (tstamp 848de4bc-57fd-4c3d-a59a-74c3e90185e0))
+  (gr_arc (start 161.6 80.9) (mid 160.54215 85.367699) (end 157.55 88.85) (layer "B.SilkS") (width 2) (tstamp 93d4d131-a9f1-4257-bd4f-e06ad27b3631))
   (gr_poly
     (pts
       (xy 139.931923 109.054557)
@@ -2141,8 +2150,6 @@
       (xy 139.972643 109.054318)
       (xy 139.95605 109.05397)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp 9937944c-fe0f-44ca-8f41-9eb3c53ff571))
-  (gr_line (start 161.5 85.7) (end 156.5 89.7) (layer "B.SilkS") (width 2) (tstamp a01f5d6c-813d-4a84-941a-b48f1c33ac2b))
-  (gr_line (start 138.5 85.25) (end 138.5 69.25) (layer "B.SilkS") (width 2) (tstamp a6797b05-31ce-439a-aa8f-64d008448a5f))
   (gr_poly
     (pts
       (xy 140.222329 108.325593)
@@ -2582,6 +2589,7 @@
       (xy 140.331822 108.325586)
       (xy 140.27732 108.324382)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp b18ba222-b6f3-4907-b04c-2a5ec12fea52))
+  (gr_arc (start 142.45 88.85) (mid 139.457841 85.367703) (end 138.4 80.9) (layer "B.SilkS") (width 2) (tstamp becc358e-ef6d-41ed-a412-61ca01ad5ed6))
   (gr_poly
     (pts
       (xy 137.554714 109.052047)
@@ -2657,6 +2665,14 @@
       (xy 137.992708 109.051969)
       (xy 137.557997 109.051969)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp c28c26f6-16ef-42cc-927a-e1e71f787a83))
+  (gr_line (start 161.6 80.9) (end 161.5 69.25) (layer "B.SilkS") (width 2) (tstamp c4d75d3d-bb31-481d-a4a7-a0f504882b68))
+  (gr_poly
+    (pts
+      (xy 143.401315 88.331702)
+      (xy 144.962176 89.582187)
+      (xy 143.711691 91.143048)
+      (xy 142.15083 89.892563)
+    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp e8a30a4a-b90d-43dc-9cd2-b512b8cb2467))
   (gr_poly
     (pts
       (xy 140.544223 109.054557)
@@ -2890,20 +2906,6 @@
       (xy 140.58496 109.054318)
       (xy 140.568361 109.05397)
     ) (layer "B.SilkS") (width 0.025) (fill solid) (tstamp eb5bb40d-3e15-4535-9943-afe48e5edf1d))
-  (gr_poly
-    (pts
-      (xy 145.157798 89.511062)
-      (xy 143.566851 88.299085)
-      (xy 142.354874 89.890032)
-      (xy 143.945821 91.102009)
-    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp fcea4ecb-e2ae-432e-a776-ebd0effd7312))
-  (gr_poly
-    (pts
-      (xy 156.598685 88.331702)
-      (xy 155.037824 89.582187)
-      (xy 156.288309 91.143048)
-      (xy 157.84917 89.892563)
-    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp ff07b9b2-f96e-4aa5-a0a3-d8c386c866eb))
   (gr_line locked (start 175.700633 111.737867) (end 157.850774 136.33265) (layer "Edge.Cuts") (width 0.2) (tstamp 0b4bc92d-47bf-4db8-93c2-5b339fd65f97))
   (gr_line locked (start 157.041455 136.745281) (end 142.958545 136.74528) (layer "Edge.Cuts") (width 0.2) (tstamp 1eb42abd-1deb-463e-b751-41637bf1529b))
   (gr_arc locked (start 157.850774 136.33265) (mid 157.495675 136.636171) (end 157.041455 136.74528) (layer "Edge.Cuts") (width 0.2) (tstamp 2931709a-9157-440b-913a-682791df90c9))
@@ -2944,7 +2946,7 @@
   (gr_text "Host A" (at 161.43 66.89) (layer "B.SilkS") (tstamp b1acb251-2056-4b70-b9dd-aec41171c4bb)
     (effects (font (size 1.5 1.3) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "RB02 v1.1.2\n© Will Harris-Braun\n2022-04-17" (at 142.5 94.2) (layer "B.SilkS") (tstamp b6165058-0d36-42a5-b863-626c07263e1f)
+  (gr_text "RB02 v1.1.3\n© Will Harris-Braun\n2022-04-17" (at 142.5 94.2) (layer "B.SilkS") (tstamp b6165058-0d36-42a5-b863-626c07263e1f)
     (effects (font (size 1 0.8) (thickness 0.1)) (justify left mirror))
   )
   (gr_text "CC BY-SA 3.0" (at 141.45893 107.029433) (layer "B.SilkS") (tstamp f70dc0b8-1a95-4108-b7f9-13f874ea6ee9)
